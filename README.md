@@ -1,5 +1,5 @@
-                                                                                   <h1>Hey Hi,I am Arya.</h1>
-                                                                            <p>A passionate developer from India</p>
+<h1>Hey Hi,I am Arya.</h1>
+<p>A passionate developer from India</p>
 
 # 💫 About Me:
 🌱 I’m currently learning build Fulstack WebAPP
