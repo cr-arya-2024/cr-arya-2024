@@ -8,7 +8,7 @@
 
 📑 Check out my resume here - 
 
-💻 All of my projects are available on GitHub
+💻 All of my projects are available on [GitHub](https://github.com/cr-arya-2024)
 
 💬 Ask me about Apps, Backend and Artificial Intelligence
 
