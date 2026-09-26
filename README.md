@@ -10,8 +10,6 @@ Hey Hi, I am C R Arya 👋 A final year ECE student and aspiring RTL Design Engi
 - 🎯 Currently looking for **internship opportunities** in VLSI/ASIC Design
 - 📫 Reach out to me at [aryacr2005@gmail.com](mailto:aryacr2005@gmail.com)
 
-## 🌐 Socials:
-[Email Badge] [LinkedIn Badge]
 
 ## 🛠️ Tech Stack:
 
